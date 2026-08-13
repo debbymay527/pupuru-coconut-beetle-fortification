@@ -59,3 +59,17 @@ Research Context
 This research was conducted within the context of food nutrition, food science, edible insects, cassava-based foods, and food fortification in Nigeria.
 Manuscript
 The full research manuscript is available in this repository.
+My Research Contributions
+I conducted the research process from study design through analysis and reporting. My contributions included:
+Conducting literature searches and reviewing relevant scientific literature
+Developing the research methodology
+Preparing pupuru and coconut beetle (Oryctes rhinoceros) larvae flour
+Formulating the six experimental samples
+Conducting laboratory analyses
+Organizing and conducting the sensory evaluation
+Collecting and organizing experimental data
+Performing data analysis using Excel and SPSS
+Applying ANOVA and Duncan's Multiple Range Test
+Interpreting experimental results
+Preparing tables and presenting research findings
+Writing and compiling the research manuscript
